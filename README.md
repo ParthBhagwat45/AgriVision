@@ -1,1 +1,1 @@
-
+An end to end analysis of Indian agriculture using Python, SQL, Tableau, and Power BI to analyze crop production, yield, climate, and soil data, uncover key trends, and generate actionable insights for data driven agricultural planning.
